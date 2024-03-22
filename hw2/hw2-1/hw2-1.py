@@ -147,8 +147,6 @@ print(f"Total MACs: {total_macs}")
 
 import torch
 
-print('not finish yet!!!!!!!!!!!1')
-
 activation = {}
 
 def get_activation(name):
